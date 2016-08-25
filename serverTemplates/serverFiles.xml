@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<filelist>
+  <file name="Large Windows R2012"
+        location="serverTemplates\\Windows\\largeWin.config">
+  </file>
+  <file name="Medium Windows R2012"
+      location="serverTemplates\\Windows\\mediumWin.config">
+  </file>
+  <file name="Small Windows R2012"
+      location="serverTemplates\\Windows\\smallWin.config">
+  </file>
+  <file name="Large Ubuntu 14"
+      location="serverTemplates\\Linux\\largeUbun.config">
+  </file>
+  <file name="Medium Ubuntu 14"
+      location="serverTemplates\\Linux\\mediumUbun.config">
+  </file>
+  <file name="Small Ubuntu 14"
+      location="serverTemplates\\Linux\\smallUbun.config">
+  </file> 
+</filelist>
