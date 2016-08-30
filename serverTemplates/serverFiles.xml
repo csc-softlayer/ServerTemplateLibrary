@@ -10,12 +10,12 @@
       location="serverTemplates\\Windows\\OnSISUAT.config">
   </file>
   <file name="Dev DB"
-      location="serverTemplates\\Linux\\largeUbun.config">
+      location="serverTemplates\\Linux\\DbDev.config">
   </file>
   <file name="QA DB"
-      location="serverTemplates\\Linux\\mediumUbun.config">
+      location="serverTemplates\\Linux\\DbQA.config">
   </file>
   <file name="UAT DB"
-      location="serverTemplates\\Linux\\smallUbun.config">
+      location="serverTemplates\\Linux\\DbUAT.config">
   </file> 
 </filelist>
