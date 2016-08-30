@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <filelist>
-  <file name="Large Windows R2012"
-        location="serverTemplates\\Windows\\largeWin.config">
+  <file name="OnSIS Dev"
+        location="serverTemplates\\Windows\\OnSISDev.config">
   </file>
-  <file name="Medium Windows R2012"
-      location="serverTemplates\\Windows\\mediumWin.config">
+  <file name="OnSIS QA"
+      location="serverTemplates\\Windows\\OnSISQA.config">
   </file>
-  <file name="Small Windows R2012"
-      location="serverTemplates\\Windows\\smallWin.config">
+  <file name="OnSIS UAT"
+      location="serverTemplates\\Windows\\OnSISUAT.config">
   </file>
   <file name="Large Ubuntu 14"
       location="serverTemplates\\Linux\\largeUbun.config">
